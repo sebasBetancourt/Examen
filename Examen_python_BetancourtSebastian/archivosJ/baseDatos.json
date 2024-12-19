@@ -1,0 +1,48 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Sebas",
+            "contacto": "310782",
+            "cedula": "1081276993",
+            "cliente": {
+                "nuevo": false,
+                "regular": false,
+                "leal": false
+            },
+            "servicio": "optica",
+            "mensajes": {
+                "consultas": "",
+                "reclamaciones": "",
+                "sugerencias": ""
+            }
+        },
+        {
+            "nombre": "jhgf",
+            "contacto": "7653",
+            "cedula": "765",
+            "cliente": {
+                "nuevo": true,
+                "regular": false,
+                "leal": false
+            },
+            "servicio": "",
+            "mensajes": {
+                "consultas": "",
+                "reclamaciones": "",
+                "sugerencias": ""
+            }
+        }
+    ],
+    "servicios": [
+        {
+            "servicio": "optica",
+            "promociones": {
+                "1": "",
+                "2": ""
+            },
+            "usuarios": "0",
+            "caracteristicas": "",
+            "precio": ""
+        }
+    ]
+}
